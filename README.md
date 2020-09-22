@@ -1,6 +1,6 @@
 # Analyzing 10GB of Yelp Data
 
-This project is to analyze Yelp’s Reviews, Businesses and Users dataset. This dataset is from [kaggle](https://www.kaggle.com/yelp-dataset/yelp-dataset), which is pulled into a publis s3 bucket: s3://yelp-reviews-businesses-datasets/yelp_academic_dataset_business.json
+This project is to analyze Yelp’s Reviews, Businesses and Users dataset. This dataset is from [kaggle](https://www.kaggle.com/yelp-dataset/yelp-dataset), which is pulled into a public s3 bucket: s3://yelp-reviews-businesses-datasets/yelp_academic_dataset_business.json
 
 **Create a Cluster on AWS EMR**  
   * Provision the hardware  
