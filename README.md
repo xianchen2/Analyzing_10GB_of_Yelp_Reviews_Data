@@ -13,13 +13,13 @@ This project is to analyze Yelp’s Reviews, Businesses and Users dataset. This 
   
   Part II: Analyzing Categories (Business dataset)    
   - how many unique categories are represented in this dataset?  
-  - What are the top 20 most popular categories by business?  
+  - What are the top 20 most popular business categories?  
   
   Part III:  Do Yelp Reviews biased from the average rating? (Review dataset)  
   - Is it true that people who write a review are those who are more dissatisfied or more satisfied with the service received？
     
   Part IV: Analzing Users (User dataset)
-  - What is the number of users by years of using Yelp？
+  - What is the number of users by years？
   - What are the states with the most reviewers? 
 
 
